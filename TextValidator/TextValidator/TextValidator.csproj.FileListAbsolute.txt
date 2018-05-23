@@ -1,0 +1,7 @@
+D:\Programming\C#\TextValidator\TextValidator\bin\Debug\TextValidator.exe.config
+D:\Programming\C#\TextValidator\TextValidator\bin\Debug\TextValidator.exe
+D:\Programming\C#\TextValidator\TextValidator\bin\Debug\TextValidator.pdb
+D:\Programming\C#\TextValidator\TextValidator\obj\Debug\TextValidator.csprojAssemblyReference.cache
+D:\Programming\C#\TextValidator\TextValidator\obj\Debug\TextValidator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\TextValidator\TextValidator\obj\Debug\TextValidator.exe
+D:\Programming\C#\TextValidator\TextValidator\obj\Debug\TextValidator.pdb
